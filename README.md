@@ -5,7 +5,7 @@ Replacement for X ==> Social Media
 ---
 
 ## Executive Summary
-Elevator Pitch (required, max 1000 characters - motivation, target audience, technology stack)
+Elevator Pitch 
 In a world without social media, Connect+ proves that real-world connections are stronger than digital likes. Connect+ is a next-generation social engagement app designed to replace passive social media consumption with real-world interactions. Unlike traditional platforms like Instagram or Twitter, which focus on content consumption, Connect+ actively encourages meaningful face-to-face interactions based on shared interests, real-time activities, and location-based opportunities.
 
 Our target audience includes young professionals, students, and social explorers who want to meet new people, expand their social circles, and create meaningful experiences offline—without the distractions of traditional social media algorithms. Whether through networking, shared hobbies, or community events, Connect+ helps users form authentic, in-person connections.
