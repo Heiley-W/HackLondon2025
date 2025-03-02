@@ -1,6 +1,6 @@
 # Connect+
 ## HackLondon2025 Category 1: A World Without X
-Placeholder for X ==> Social Media
+Replacement for X ==> Social Media
 
 ---
 
