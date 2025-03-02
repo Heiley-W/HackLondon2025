@@ -48,4 +48,4 @@ By shifting the focus from passive engagement to real-world interactions, Connec
 
 ## Components To Be Implemented (Draft) 🛠️
 [component](https://github.com/user-attachments/assets/64325cff-ae1d-4cda-a3e4-4184c43b52ef)
-
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/user-attachments/assets/64325cff-ae1d-4cda-a3e4-4184c43b52ef "Components Process Map")
